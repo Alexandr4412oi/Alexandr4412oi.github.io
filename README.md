@@ -3,7 +3,7 @@
 _Развлекательная_ **игра** где ***динозаврик*** перепрыгивает через ***кактус***.
 
 Персонажи:
-- ![Dino]("." - ./dist/..  https://github.com/Alexandr4412oi/Alexandr4412oi.github.io/blob/main/img/dino-cartel-white.png)
+- ![Dino](https://github.com/Alexandr4412oi/Alexandr4412oi.github.io/blob/main/img/dino-cartel-white.png)
 
 - ![Cactus](https://github.com/Alexandr4412oi/Alexandr4412oi.github.io/blob/main/img/231164809.jpg)
 
