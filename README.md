@@ -5,11 +5,11 @@ _Развлекательная_ **игра** где ***динозаврик*** 
 Персонажи:
 - ![Dino](img/qrcode_dinoworldexpo.com.png)
 
-- ![Cactus](img/231164809.jpg)
+- ![Cactus](img/qrcode_babyplus.ua.png)
 
-- ![Cactus](img/231164809.jpg)
+- ![Cactus](img/qrcode_cdn.27.ua.png)
 
-- ![Cactus](img/231164809.jpg)
+- ![Cactus](img/qrcode_babyplus.ua.png)
 
 
 
