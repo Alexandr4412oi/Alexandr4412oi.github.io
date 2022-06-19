@@ -9,7 +9,7 @@ _Развлекательная_ **игра** где ***динозаврик*** 
 
 - ![Cactus](https://github.com/Alexandr4412oi/Alexandr4412oi.github.io/blob/main/img/231164809.jpg)
 
-- ![Cactus](https://github.com/Alexandr4412oi/Alexandr4412oi.github.io/blob/eb694c59d27c5d240d8904a5e1222c1c74938c88/img/231164809.jpg)
+- ![Cactus](img/231164809.jpg)
 
 
 
