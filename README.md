@@ -7,11 +7,9 @@ _Развлекательная_ **игра** где гдавный герой *
 
 # `Персонажи`:
 
-- ![Dino](img/qrcode_dinoworldexpo.com.png)         ![Cactus](img/qrcode_babyplus.ua.png)
+![Dino](img/qrcode_dinoworldexpo.com.png)         
+![Cactus](img/32a3870a5043b7c005cc51e03c6fef0673435be1_original.jpeg)![Cactus](img/1.1-6.jpg) ![Cactus](img/a33a2f18-0041-4c27-a52c-e274ca1d1d04.jpg)
 
-
-
-- ![Cactus](img/qrcode_cdn.27.ua.png)               ![Cactus](img/qrcode_babyplus.ua.png)
 
 >In order to win, 
 you must first play
