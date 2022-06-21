@@ -19,3 +19,4 @@ you must first play
 ### __[MORE INFORMATION ON THE GAME](https://dino-chrome.com/)__
 
 
+[game](https://github.com/Alexandr4412oi/Alexandr4412oi.github.io/blob/c8fb86b0a49d71539ae8b924532a5db6dfb236d8/index.html)
