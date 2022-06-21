@@ -18,3 +18,5 @@ you must first play
 
 ### __[MORE INFORMATION ON THE GAME](https://dino-chrome.com/)__
 
+ [Game](https://alexandr4412oi.github.io/Alexandr4412oi.github-games-io/) 
+ 
