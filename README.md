@@ -22,4 +22,4 @@ you must first play***
 #### __[MORE INFORMATION ON THE GAME](https://dino-chrome.com/)__
 
 
-## [I WANT TO PLAY THE GAME](https://alexandr4412oi.github.io/Alexandr4412oi.github-games-io/) 
+## [I WANT TO PLAY THIS GAME](https://alexandr4412oi.github.io/Alexandr4412oi.github-games-io/) 
