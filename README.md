@@ -14,12 +14,11 @@ _Развлекательная_ **игра** где гдавный герой *
 ![Cactus](foto/1.1-6.jpg)              ![Cactus](foto/a33a2f18-0041-4c27-a52c-e274ca1d1d04.jpg)
 
 
-> ***In order to win, 
-you must first play***
+> ***IF YOU WANT TO WIN, AT FIRST YOU MUST TO PLAY***
 
 
 
-#### __[MORE INFORMATION ON THE GAME](https://dino-chrome.com/)__
+#### __[MORE INFORMATION ABOUT THIS GAME](https://dino-chrome.com/)__
 
 
 ## [I WANT TO PLAY THIS GAME](https://alexandr4412oi.github.io/Alexandr4412oi.github-games-io/) 
