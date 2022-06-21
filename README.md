@@ -18,3 +18,4 @@ you must first play
 
 ### __[MORE INFORMATION ON THE GAME](https://dino-chrome.com/)__
 
+[hfhfgh](https://github.com/Alexandr4412oi/desktop-tutorial) 
